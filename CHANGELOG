@@ -1,0 +1,22 @@
+# Change Log
+# All notable changes to this project will be documented in this file.
+# The address of the repo: https://github.com/JosanSun/30DaySelfMakeOs
+
+## [0.0.1] 2018-09-01
+### Added
+- 增加第一天内容，汇编语言
+
+
+------------CHANGELOG书写格式----------------
+### Added
+- 这里说明增加了什么内容
+### FIX
+- 这里说明修复了什么BUG
+### Changed
+- 这里说明修改什么内容
+### BUG
+- 这是汇报已知的BUG信息
+### ToDoList
+- 这里存在未来的计划
+
+
