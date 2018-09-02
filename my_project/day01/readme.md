@@ -9,4 +9,4 @@
 3. 得到如下效果图
 
 
-![]()
+![效果图](https://github.com/JosanSun/30DaySelfMakeOS/blob/master/pic/day01-run.png "展示界面")
